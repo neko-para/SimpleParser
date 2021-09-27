@@ -1,0 +1,24 @@
+{
+  "name": "simpleparser",
+  "version": "1.0.0",
+  "description": "Simple Parser",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nekosu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neko-para/SimpleParser.git"
+  },
+  "keywords": [
+    "parser",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/neko-para/SimpleParser/issues"
+  },
+  "homepage": "https://github.com/neko-para/SimpleParser#readme"
+}
